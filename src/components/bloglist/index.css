@@ -1,0 +1,26 @@
+.avatar-image {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.image {
+  width: 500px;
+  border-radius: 10px;
+}
+.card-list {
+  list-style-type: none;
+}
+.card {
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+.author-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

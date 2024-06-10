@@ -1,0 +1,17 @@
+.avatar-image {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+.image {
+  max-width: 70%;
+}
+.content {
+  max-width: 70%;
+}
+.blog-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

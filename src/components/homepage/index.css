@@ -1,0 +1,11 @@
+.Home-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+}
